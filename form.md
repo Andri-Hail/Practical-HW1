@@ -17,7 +17,7 @@
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: ORL5LBQWIVS5YLIK45ULTDC3ANW4PH4COK7LGVYWIPMXVKZ6JSNA
 
 ## Step 3.3:
 
