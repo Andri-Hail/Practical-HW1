@@ -12,8 +12,8 @@
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 69215444
+* Name of the asset: HAILCOIN
 
 ## Step 3.2:
 
