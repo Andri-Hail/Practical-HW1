@@ -2,13 +2,13 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: IKUHH2FREPGQGYQWNRRSG55CV4Z4SSRHK4SLL2ITQ5TP3KIBOH37YDCLTI
+* Address of account B: 3VOSSLFIZLKBV7KLFHGOASCK22VDYQCBIL2O3ZV76K7N4VAC5VGHSZCU24
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: 7ROSZ3ILFQHVTLC5IEFHBW7J7CZHSNZY2NV3F6XQNM47STF7HMAQ
+* Transaction ID from account B: CUY5VFCVBVE6NBJIIJ2FCK4NX4GE2UU4B2UONSEW4FKEVABWJ3BQ
 
 ## Step 3.1:
 
